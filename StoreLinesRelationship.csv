@@ -1,0 +1,18 @@
+Store,LineItem,relationship
+Walmart,Bananas,BOUGHT
+Walmart,Apples,BOUGHT
+Walmart,Milk,BOUGHT
+Walmart,Pen,BOUGHT
+Walmart,Motor Oil,BOUGHT
+Walmart,Tire,BOUGHT
+Walmart,Engine Oil,BOUGHT
+Walmart,Paper,BOUGHT
+Target,Bread,BOUGHT
+Target,Milk,BOUGHT
+Target,Pen,BOUGHT
+Target,Paper,BOUGHT
+McDonald,Coke,BOUGHT
+McDonald,Big Mac,BOUGHT
+McDonald,Fries,BOUGHT
+Wendys,Coke,BOUGHT
+Wendys,Burger,BOUGHT

@@ -1,0 +1,14 @@
+LineItem,GLAccount,relationship
+Bananas,Groceries Expense,GLMAP
+Apples,Groceries Expense,GLMAP
+Motor Oil,Office Expense,GLMAP
+Tire,Office Expense,GLMAP
+Engine Oil,Office Expense,GLMAP
+Bread,Groceries Expense,GLMAP
+Milk,Groceries Expense,GLMAP
+Pen,Office Expense,GLMAP
+Paper,Office Expense,GLMAP
+Big Mac,Meal Expense,GLMAP
+Fries,Meal Expense,GLMAP
+Coke,Meal Expense,GLMAP
+Burger,Meal Expense,GLMAP
